@@ -18,7 +18,7 @@ This project is an example of a bot built on Laravel that processes messages via
     Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/laravel-bot-telegram.git
+    git clone https://github.com/Soulrom/laravel-telegram-bot.git
     cd laravel-bot-telegram
     ```
 
